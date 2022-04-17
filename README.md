@@ -1,1 +1,1 @@
-# 1815-flexbox
+Web page project using flexbox on CSS
